@@ -1,0 +1,4 @@
+git:
+nome utente progetto :kernel
+email:smartlinux@mail.com
+ 
